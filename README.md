@@ -11,10 +11,10 @@ Antes de começar, você precisará ter o Node.js e o npm instalados. Além diss
    ```bash
    git@github.com:matheusPrado007/ADOTE-AMOR.git
 2. Instale as dependências:
- ```cd``` ADOTE-AMOR
-  ``` npm install ```
+- ```cd``` ADOTE-AMOR
+- ``` npm install ```
 3. Execute o servidor:
-4. ```npm run dev```
+- ```npm run dev```
 
 ## Endpoints
 - GET /: Retorna a lista de pets disponíveis para adoção.
