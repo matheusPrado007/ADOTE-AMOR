@@ -1,6 +1,11 @@
 # API de Adoção de Pets de Rua
 
 Bem-vindo ao repositório da API de Adoção de Pets de Rua! Esta API é construída usando Node.js, Express, MongoDB e Firebase, com o objetivo de conectar animais adoráveis a famílias amorosas. A API oferece endpoints para criar, listar, atualizar e excluir informações sobre pets disponíveis para adoção.
+## Tecnologias
+- nodeJS
+- javascript
+- express
+- mongoDB
 
 ## Configuração
 
