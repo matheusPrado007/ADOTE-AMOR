@@ -9,7 +9,7 @@ Antes de começar, você precisará ter o Node.js e o npm instalados. Além diss
 1. Clone este repositório:
    
    ```bash
-   git clone https://github.com/seu-usuario/api-adocao-pets.git
+   git@github.com:matheusPrado007/ADOTE-AMOR.git
 2. Instale as dependências:
  ```cd``` ADOTE-AMOR
   ``` npm install ```
